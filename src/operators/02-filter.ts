@@ -11,6 +11,7 @@ interface personajes {
     tipo:String ,
     nombre: String
 }
+
 const personajes: personajes[] =[
     {
         tipo:'heroe',
